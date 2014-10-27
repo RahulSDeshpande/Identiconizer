@@ -8,3 +8,7 @@ default picture.
 XDA Thread
 ==========
 http://forum.xda-developers.com/showthread.php?t=2718943
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/RahulSDeshpande/identiconizer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
